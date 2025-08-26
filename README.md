@@ -7,13 +7,13 @@
 
 <!-- Badges / Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ramamhalla" target="_blank">
+  <a href="https://www.linkedin.com/in/rama-mhalla-5b20081a7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rama%20Mhalla-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:ramamhalla24@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://ramamhalla.github.io" target="_blank">
+  <a href="https://ramamhallla.github.io/my-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-181717?logo=github" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=RamaMhallla&style=flat&color=brightgreen" alt="views"/>
@@ -63,9 +63,9 @@
 
 ### 🤝 Connect
 
-- LinkedIn: <a href="https://www.linkedin.com/in/ramamhalla">ramamhalla</a>
-- Email: **your.email@example.com**
-- Portfolio: <a href="https://ramamhalla.github.io">ramamhalla.github.io</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/rama-mhalla-5b20081a7/">rama-mhalla</a>
+- Email: **ramamhalla24@gmail.com**
+- Portfolio: <a href="https://ramamhallla.github.io/my-portfolio/">ramamhallla.github.io/my-portfolio/</a>
 
 ---
 
