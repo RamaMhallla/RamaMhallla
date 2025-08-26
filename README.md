@@ -19,13 +19,13 @@
 
 ## 🚀 About Me
 
-<p align="center">
+<p >
 🎓 <b>Master's student in Telecommunication Engineering</b> @ University of Calabria (Italy)<br/>
 💡 Passionate about <b>AI, IoT, Edge/Cloud Computing, and Smart Systems</b><br/>
 🚀 Exploring innovative solutions at the intersection of <b>Computer Vision, Machine Learning, and Wireless Networks</b>
 </p>
 
-<div align="center">
+<div >
 
 - 🔭 Currently working on **Air-Writing Recognition**, **Smart Health Monitoring**, and **WSN deployments**
 - 🎯 Interests: Computer Vision, Gesture Recognition, Edge/Cloud, Wireless Sensor Networks
