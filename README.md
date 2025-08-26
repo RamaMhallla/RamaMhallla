@@ -27,9 +27,9 @@
 
 <div >
 
-- 🔭 Currently working on **Air-Writing Recognition**, **Smart Health Monitoring**, and **WSN deployments**
-- 🎯 Interests: Computer Vision, Gesture Recognition, Edge/Cloud, Wireless Sensor Networks
-- 💬 Ask me about **OpenCV, MediaPipe, TensorFlow/Keras, Flutter, MQTT, AWS/Cloud**
+- Currently working on **Air-Writing Recognition**, **Smart Health Monitoring**, and **WSN deployments**
+- Interests: Computer Vision, Gesture Recognition, Edge/Cloud, Wireless Sensor Networks
+- Ask me about **OpenCV, MediaPipe, TensorFlow/Keras, Flutter, MQTT, AWS/Cloud**
 
 </div>
 
