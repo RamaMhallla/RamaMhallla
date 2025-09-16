@@ -17,12 +17,12 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <p >
-🎓 <b>Master's student in Telecommunication Engineering</b> @ University of Calabria (Italy)<br/>
-💡 Passionate about <b>AI, IoT, Edge/Cloud Computing, and Smart Systems</b><br/>
-🚀 Exploring innovative solutions at the intersection of <b>Computer Vision, Machine Learning, and Wireless Networks</b>
+ - <b>Master's student in Telecommunication Engineering</b> @ University of Calabria (Italy)<br/>
+ - Passionate about <b>AI, IoT, Edge/Cloud Computing, and Smart Systems</b><br/>
+ - Exploring innovative solutions at the intersection of <b>Computer Vision, Machine Learning, and Wireless Networks</b>
 </p>
 
 <div >
@@ -52,6 +52,7 @@
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -81,9 +82,9 @@
 
 </div>
 
----
+--- -->
 
-## 📫 How to reach me
+<!-- ## 📫 How to reach me
 
 <p align="center">
   <a href="https://ramamhallla.github.io/my-portfolio/">
@@ -100,7 +101,7 @@
   </a>
 </p>
 
----
+--- -->
 
 <p align="center">
   <i>⭐ "Always learning, always building – turning ideas into real-world solutions." ⭐</i>
