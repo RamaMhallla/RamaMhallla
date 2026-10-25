@@ -18,11 +18,11 @@
 
 ## About Me
 
-- 🎓 **MSc in Telecommunication Engineering** (Smart Sensing, Computing and Networking), University of Calabria, Italy. Weighted average **29.6/30**, graduating June 2027
-- 🔬 **Research interests:** edge–cloud computing and AI workload orchestration, IoT systems and security, SDN and network softwarization, 5G/6G networks, AI for network optimization, energy-aware networking
-- 📄 **Publication:** workshop paper at **HC@AIxIA 2026** (Transformers for molecular dynamics)
-- 👩‍🏫 5 years teaching C++ · backend development with Laravel
-- 🔎 **Looking for a PhD position** starting from **July 2027**
+- **MSc in Telecommunication Engineering** (Smart Sensing, Computing and Networking), University of Calabria, Italy. Weighted average **29.6/30**, graduating June 2027
+- **Research interests:** edge–cloud computing and AI workload orchestration, IoT systems and security, SDN and network softwarization, 5G/6G networks, AI for network optimization, energy-aware networking
+- **Publication:** workshop paper at **HC@AIxIA 2026** (Transformers for molecular dynamics)
+- 5 years teaching C++ · backend development with Laravel
+- **Looking for a PhD position** starting from **July 2027**
 
 ---
 
