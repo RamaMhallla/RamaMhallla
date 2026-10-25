@@ -35,12 +35,12 @@
 | **SDN-Controlled Adaptive RLNC for Vehicular Networks** | Random linear network coding that adapts during vehicle handover, controlled by SDN | Mininet-WiFi · SUMO |
 | **Predictive Home Energy & Appliance Optimization System** | Multi-protocol IoT testbed with a Raspberry Pi gateway, plus Bi-LSTM energy prediction | Zigbee · LoRaWAN · BLE · MQTT |
 | **Secure Smart Lock** | End-to-end security with AES/HMAC, TLS and replay protection, tested against man-in-the-middle attacks | Bettercap · Wireshark · Nmap |
+| **Smart Health Monitoring App** | Health monitoring app with IoT data over MQTT and cloud ML inference | Flutter · AWS Amplify · MQTT · SageMaker |
 | **Transformers for Molecular Dynamics** | Autoencoder + Transformer model for predicting protein trajectories (HC@AIxIA 2026 workshop paper) | PyTorch / Python |
 
 <details>
 <summary><b>Earlier projects</b> (computer vision and IoT apps)</summary>
 
--  **Smart Health Monitoring App**: Flutter, AWS Amplify, MQTT, SageMaker
 -  **Air-Writing Recognition**: MediaPipe, OpenCV, CNN on EMNIST
 -  **Smart Museum Emotion Detection**: TFLite, Node-RED, Flutter
 -  **Wireless Sensor Network**: XBee 802.15.4 with BME sensors for environmental monitoring
