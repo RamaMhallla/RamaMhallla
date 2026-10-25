@@ -33,7 +33,7 @@
 | **Adaptive Edge–Cloud AI Inference** | Compared on-device inference (TFLite) with cloud inference (AWS SageMaker) and studied adaptive offloading between them in EdgeCloudSim | TFLite · AWS SageMaker · EdgeCloudSim |
 |  **Green-Aware 5G-SDN Routing for Drone Networks** | Energy-aware SDN routing for a disaster-recovery drone network (FANET) | Ryu · OpenFlow · Containernet |
 | **SDN-Controlled Adaptive RLNC for Vehicular Networks** | Random linear network coding that adapts during vehicle handover, controlled by SDN | Mininet-WiFi · SUMO |
-| **Heterogeneous IoT Testbed** | Multi-protocol IoT testbed with a Raspberry Pi gateway, plus Bi-LSTM energy prediction | Zigbee · LoRaWAN · BLE · MQTT |
+| **Predictive Home Energy & Appliance Optimization System** | Multi-protocol IoT testbed with a Raspberry Pi gateway, plus Bi-LSTM energy prediction | Zigbee · LoRaWAN · BLE · MQTT |
 | **Secure Smart Lock** | End-to-end security with AES/HMAC, TLS and replay protection, tested against man-in-the-middle attacks | Bettercap · Wireshark · Nmap |
 | **Transformers for Molecular Dynamics** | Autoencoder + Transformer model for predicting protein trajectories (HC@AIxIA 2026 workshop paper) | PyTorch / Python |
 
