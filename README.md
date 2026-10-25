@@ -30,21 +30,21 @@
 
 | Project | What I did | Tools |
 | :-- | :-- | :-- |
-| ⚡ **Adaptive Edge–Cloud AI Inference** | Compared on-device inference (TFLite) with cloud inference (AWS SageMaker) and studied adaptive offloading between them in EdgeCloudSim | TFLite · AWS SageMaker · EdgeCloudSim |
-| 🌿 **Green-Aware 5G-SDN Routing for Drone Networks** | Energy-aware SDN routing for a disaster-recovery drone network (FANET) | Ryu · OpenFlow · Containernet |
-| 🚗 **SDN-Controlled Adaptive RLNC for Vehicular Networks** | Random linear network coding that adapts during vehicle handover, controlled by SDN | Mininet-WiFi · SUMO |
-| 📡 **Heterogeneous IoT Testbed** | Multi-protocol IoT testbed with a Raspberry Pi gateway, plus Bi-LSTM energy prediction | Zigbee · LoRaWAN · BLE · MQTT |
-| 🔐 **Secure Smart Lock** | End-to-end security with AES/HMAC, TLS and replay protection, tested against man-in-the-middle attacks | Bettercap · Wireshark · Nmap |
-| 🧬 **Transformers for Molecular Dynamics** | Autoencoder + Transformer model for predicting protein trajectories (HC@AIxIA 2026 workshop paper) | PyTorch / Python |
+| **Adaptive Edge–Cloud AI Inference** | Compared on-device inference (TFLite) with cloud inference (AWS SageMaker) and studied adaptive offloading between them in EdgeCloudSim | TFLite · AWS SageMaker · EdgeCloudSim |
+|  **Green-Aware 5G-SDN Routing for Drone Networks** | Energy-aware SDN routing for a disaster-recovery drone network (FANET) | Ryu · OpenFlow · Containernet |
+| **SDN-Controlled Adaptive RLNC for Vehicular Networks** | Random linear network coding that adapts during vehicle handover, controlled by SDN | Mininet-WiFi · SUMO |
+| **Heterogeneous IoT Testbed** | Multi-protocol IoT testbed with a Raspberry Pi gateway, plus Bi-LSTM energy prediction | Zigbee · LoRaWAN · BLE · MQTT |
+| **Secure Smart Lock** | End-to-end security with AES/HMAC, TLS and replay protection, tested against man-in-the-middle attacks | Bettercap · Wireshark · Nmap |
+| **Transformers for Molecular Dynamics** | Autoencoder + Transformer model for predicting protein trajectories (HC@AIxIA 2026 workshop paper) | PyTorch / Python |
 
 <details>
 <summary><b>Earlier projects</b> (computer vision and IoT apps)</summary>
 
-- 📱 **Smart Health Monitoring App**: Flutter, AWS Amplify, MQTT, SageMaker
-- ✍️ **Air-Writing Recognition**: MediaPipe, OpenCV, CNN on EMNIST
-- 🖼 **Smart Museum Emotion Detection**: TFLite, Node-RED, Flutter
-- 📡 **Wireless Sensor Network**: XBee 802.15.4 with BME sensors for environmental monitoring
-- 🎨 **Air Drawing Canvas** and 🖐️ **Gesture + Voice Controlled Presentation**: OpenCV, MediaPipe
+-  **Smart Health Monitoring App**: Flutter, AWS Amplify, MQTT, SageMaker
+-  **Air-Writing Recognition**: MediaPipe, OpenCV, CNN on EMNIST
+-  **Smart Museum Emotion Detection**: TFLite, Node-RED, Flutter
+-  **Wireless Sensor Network**: XBee 802.15.4 with BME sensors for environmental monitoring
+-  **Air Drawing Canvas** and  **Gesture + Voice Controlled Presentation**: OpenCV, MediaPipe
 
 </details>
 
